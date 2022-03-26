@@ -30,15 +30,15 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Screenshots
 Landing Page
-![](./public/assets/images/homepage.PNG)
+![](./public/assets/images/homepage.png)
 
 Notes Page
-![](./public/assets/images/notepage.PNG)
+![](./public/assets/images/notepage.png)
 
 ## Deployment
-https://notes-are-kee.herokuapp.com/
+https://note-tak-er.herokuapp.com/
 
 ## Contact
 
-- [GitHub](https://github.com/viakeegan 'GitHub')
-- [Email](mailto:viakeegan@gmail.com 'Email')
+- [GitHub](https://github.com/tringuyen128 'GitHub')
+- [Email](mailto:mr.tringuyen1225@gmail.com 'Email')
