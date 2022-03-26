@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "title": "Shopping list",
+      "text": "clothes\nhat\njeans\n",
+      "id": "b1e4dade-9c36-4997-9ee3-2df76b7f7795"
+    },
+    {
+      "title": "School supply",
+      "text": "pen\nbook\nnotebook\npencil\nbackpack\n",
+      "id": "24c51770-e11b-4ce5-ae43-1d30e4ac9019"
+    }
+  ]
+}
